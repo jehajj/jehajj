@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jehajj/jehajj/blob/master/devcard.svg" width="400" alt="Joseph's Dev Card"/></a>
+
 <!--
 **jehajj/jehajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
