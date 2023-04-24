@@ -1,18 +1,29 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jehajj/jehajj/blob/main/devcard.svg" width="400" alt="Joseph's Dev Card"/></a>
+<div align="left">
+  <a href="https://twitter.com/joseph_hajj">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/joseph-hajj">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-<!--
-**jehajj/jehajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://github.com/jehajj/jehajj/blob/main/devcard.svg"
+      alt="Joseph's Dev Card"
+    />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## I am Joseph Hajj
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manager at [Deloitte Digital](https://www.deloittedigital.com/us/en.html)
