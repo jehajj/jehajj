@@ -23,7 +23,3 @@
     />
   </a>
 </div>
-
-## I am Joseph Hajj
-
-- Manager at [Deloitte Digital](https://www.deloittedigital.com/us/en.html)
