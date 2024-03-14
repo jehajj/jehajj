@@ -13,13 +13,5 @@
       alt="LinkedIn"
     />
   </a>
-
-  <a href="https://app.daily.dev/DailyDevTips" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/jehajj/jehajj/blob/main/devcard.svg"
-      alt="Joseph's Dev Card"
-    />
-  </a>
+  <a href="https://app.daily.dev/jehajj"><img src="./devcard.png" width="356" alt="Joseph's Dev Card"/></a>
 </div>
